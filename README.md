@@ -2,7 +2,7 @@
 
 Project Description
 
-In this repository, you will find the script and the data used to train and evaluate a Logistic Regression Model based on loan risk: `Healthy loan(0)`, and `High-risk loan(1)`. The project focuses is to:
+In this repository, you will find the script and the notebook data used to train and evaluate a Logistic Regression Model based on loan risk: `Healthy loan(0)`, and `High-risk loan(1)`. The project aims to:
 
     Split the Data into Training and Testing Sets
     Create a Logistic Regression Model based on the train data using `train_test_split`
@@ -11,7 +11,7 @@ In this repository, you will find the script and the data used to train and eval
 # credit-risk-classification
 credit_risk_classification.ipynb and lending_data.csv were used to complete the tasks.
 `lending_data.csv` contains the data.
-`Credit_Risk/credit_risk_classification.ipynb` is the scrypt.
+`Credit_Risk/credit_risk_classification.ipynb` is the script.
 
 Contact
 
